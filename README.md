@@ -1,5 +1,13 @@
 # Run home assistant in a container
 
+
+**Rationale:**
+The advantage of this solution as opposed to run `home assistant` natively
+on your machine: you only need git and docker installed, it won't clutter your linux
+installation.
+
+It runs on raspberry and PC (and probably also on Mac)
+
 # TL;DR
 
 ```
