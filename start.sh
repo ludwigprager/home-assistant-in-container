@@ -1,6 +1,7 @@
 #/bin/bash
 
-TAG=2023.3.0.dev20230216
+#TAG=2023.3.0.dev20230216
+TAG=2023.8
 
 docker run -d \
   --name ha \
